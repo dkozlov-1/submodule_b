@@ -1,0 +1,3 @@
+[submodule "sub_submodule_c"]
+	path = sub_submodule_c
+	url = https://github.com/dkozlov-1/sub_submodule_c
